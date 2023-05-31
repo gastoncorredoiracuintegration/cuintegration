@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    width: 100%;
+    position: absolute;
+    opacity: 0.1;
+    background-color: #fff ;
+}
+
+.navbar-brand{
+    font-size: 40px;
+    color: #fff;
+    opacity: 1;
+}
+
+.img{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    display: flex;
+    align-items: center;
+    height: 80vh;
+}
